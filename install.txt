@@ -1,0 +1,32 @@
+1) Unpack "sitemap.v.1.2.rar" in the site root or copy the files from the archive in their coresponding folders in the site root.
+	For Example:
+	All .php files (located in: root\cmp) have to be placed in cmp folder (located in: root\cmp) of the site root.
+
+2) Create a component (Go to Control Panel(cp) -> System -> Components -> Add) and set the following values:  
+		
+	2.1) system name 	-> sitemap
+	2.2) public name 	-> Sitemap
+	2.3) PHP Class Name -> cmp/front/Sitemap
+
+	and click Update.
+
+3) Create a page (Go to Control Panel(cp) -> System -> Pages -> Add) and set the following values:
+	
+	3.1) system name -> sitemap
+	3.2) public name -> Sitemap
+	3.3) component -> sitemap
+
+	and click Update.
+
+4) Include lingual variables:
+
+	4.1) Go to Control Panel(cp) -> System -> Languages -> "Import from a File" (default English version is provided)
+	4.2) choose en.ini file
+	4.3) click "Import from file"
+
+
+5) Go to http://your_site_domain/en/sitemap where en is code of your default language
+
+That is all :)
+
+Thank you for your interest and enjoy SBND F&CMS - Framework & CMS for PHP developers.
