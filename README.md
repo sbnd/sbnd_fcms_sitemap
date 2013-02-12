@@ -1,9 +1,7 @@
-sbnd_fcms_sitemap
+Sitemap Component
 =================
+Generates a sitemap, consisting of all page links. 
 
-Sitemap package
+The component has a frontend only.
 
-Generate sitemap of site
-
-backend component(s) : YES (pages module)
-frontend component(s): YES
+For more information: http://fcms.sbnd.net/
