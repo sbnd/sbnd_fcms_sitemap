@@ -4,8 +4,8 @@
 # [Sitemap Component](http://fcms.sbnd.net/en/download/) 
 
 
-Generates a sitemap, consisting of all page links. 
+Generates a sitemap that consists of all page links. 
 
-**The component has a frontend only.**
+The component has a frontend part only.
 
-For more information: **http://fcms.sbnd.net/**
+For more information, see: **http://fcms.sbnd.net/**
